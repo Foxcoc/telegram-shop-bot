@@ -12,8 +12,7 @@
 ### 🧪 Как запустить:
 
 1. Установите библиотеки:
-```bash
-pip install pyTelegramBotAPI
+    pip install pyTelegramBotAPI
 
 2. Замените в bot.py:
 
@@ -25,15 +24,18 @@ pip install pyTelegramBotAPI
 
 📸 Скриншоты:
 
-<img width="526" height="212" alt="image" src="https://github.com/user-attachments/assets/011358f0-b03d-436b-979b-d3fbd7b29ade" />
+![1](https://github.com/user-attachments/assets/7289a78c-b039-41ca-b088-cb2b039f0e82)
 
-<img width="330" height="229" alt="image" src="https://github.com/user-attachments/assets/d47cc7ad-87c4-4ef4-bbf9-b6ed6111457a" />
+![2](https://github.com/user-attachments/assets/0ae2c16d-4259-4659-8443-33564080175f)
 
-<img width="407" height="232" alt="image" src="https://github.com/user-attachments/assets/d0fda84f-1c3f-4820-850b-7195396db63e" />
+![3](https://github.com/user-attachments/assets/adfbe519-d917-4ef6-b4aa-633125c3f006)
 
-<img width="401" height="164" alt="image" src="https://github.com/user-attachments/assets/6a8d2a2f-ba16-4742-a323-2d0866880276" />
+![4](https://github.com/user-attachments/assets/924aaa4d-33ef-4b61-8a76-3b057580ae81)
 
-<img width="367" height="146" alt="image" src="https://github.com/user-attachments/assets/a19b74d4-10bf-4b9c-baba-6603600f0efd" />
+![5](https://github.com/user-attachments/assets/8d36e6e7-e81c-42ae-8400-06aa115be08c)
+
+
+
 
 🧑‍💻 Автор: @M4cNik (telegram @M4cNikk)
 
